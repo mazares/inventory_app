@@ -1,0 +1,20 @@
+.app {
+    display: grid;
+    grid-template-rows: 2fr 9fr 1fr;
+    place-content: center;
+    min-height: 100vh;
+    background-color: #333;
+    color: #ddd;
+    flex-wrap: wrap;
+}
+
+.header,
+.main,
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 90vw;
+    border: 1px solid red;
+}

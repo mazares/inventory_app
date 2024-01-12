@@ -1,0 +1,111 @@
+[{
+        "product_id": "1",
+        "name": "Camo Onesie",
+        "original_price": "140",
+        "sale_price": "0",
+        "category": "Jackets",
+        "material": "Cotton",
+        "rating": "1.0",
+        "review": "3"
+    },
+    {
+        "product_id": "2",
+        "name": "Bright Future Sunglasses",
+        "original_price": "69",
+        "sale_price": "0",
+        "category": "Accessories",
+        "material": "Glass",
+        "rating": "2.0",
+        "review": "5"
+    },
+    {
+        "product_id": "3",
+        "name": "Morning Joggers",
+        "original_price": "40",
+        "sale_price": "0",
+        "category": "Pants",
+        "material": "Cotton",
+        "rating": "3.0",
+        "review": "7"
+    },
+    {
+        "product_id": "4",
+        "name": "Slacker's Slacks",
+        "original_price": "65",
+        "sale_price": "0",
+        "category": "Pants",
+        "material": "Polyester",
+        "rating": "4.0",
+        "review": "9"
+    },
+    {
+        "product_id": "5",
+        "name": "Heir Force Ones",
+        "original_price": "99",
+        "sale_price": "0",
+        "category": "Shoes",
+        "material": "Rubber",
+        "rating": "5.0",
+        "review": "12"
+    },
+    {
+        "product_id": "6",
+        "name": "Pumped Up Kicks",
+        "original_price": "89",
+        "sale_price": "0",
+        "category": "Shoes",
+        "material": "Fabric",
+        "rating": "4.0",
+        "review": "10"
+    },
+    {
+        "product_id": "7",
+        "name": "Blues Suede Shoes",
+        "original_price": "120",
+        "sale_price": "0",
+        "category": "Shoes",
+        "material": "FullControlSkin",
+        "rating": "3.0",
+        "review": "8"
+    },
+    {
+        "product_id": "8",
+        "name": "YEasy 350",
+        "original_price": "450",
+        "sale_price": "0",
+        "category": "Shoes",
+        "material": "Fabric",
+        "rating": "2.0",
+        "review": "6"
+    },
+    {
+        "product_id": "9",
+        "name": "Summer Shoes",
+        "original_price": "59",
+        "sale_price": "0",
+        "category": "Shoes",
+        "material": "Rubber",
+        "rating": "1.0",
+        "review": "4"
+    },
+    {
+        "product_id": "10",
+        "name": "Infinity Stone",
+        "original_price": "500000",
+        "sale_price": "450000",
+        "category": "Accessories",
+        "material": "Stone",
+        "rating": "5.0",
+        "review": "100"
+    },
+    {
+        "product_id": "11",
+        "name": "Infinity Gauntlet",
+        "original_price": "500000",
+        "sale_price": "450000",
+        "category": "Accessories",
+        "material": "Metal",
+        "rating": "5.0",
+        "review": "100"
+    }
+]
